@@ -4,16 +4,3 @@ node_modules/
 # Environment variables
 .env
 
-# Logs
-*.log
-
-# Cache
-*.cache
-.cache/
-
-# IDE and editor specific
-.vscode/
-.DS_Store
-
-# System-specific files
-Thumbs.db
